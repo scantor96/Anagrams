@@ -3,8 +3,8 @@
 - I'm Sara and I make [Anagrammies](https://crosshare.org/crosswords/fuVFczCkWWtVXoJdBpRw), puzzles where the answer to the clue anagrams to the filled-in word. I often get comments asking how I am able to do that.
 - My method has been to only use a wordlist of anagrams to fill a grid. I used to add to the list manually, putting in anagrams I noticed in the wild. But as the puzzles got bigger, those lists became too small for my purposes, so I wrote a little Python code to do that work for me, and now I wish to share it with you.
 - `anagramfind.py` is the program I used to search through my wordlists.
-- `allwords.txt` is the list of every word in all of my wordlists. You can use this in the search program if you wish, or make your own! Be sure to remove the semi colon and score if you're making a list from .dict files.
-- `AnagramSets.txt` is the final list of valid anagram sets. You can use this to make your own anagram word list, or just for light reading idk.
+- `allwords.txt` is the list of every word above 3 and below 21 letters in all of my wordlists. You can use this in the search program if you wish (don't run the function `fileToList` because that step has been completed), or make your own list! Be sure to remove the semi colon and score if you're making a list from .dict files.
+- `AnagramSets.txt` is the final list of valid anagram sets. You can use this to make your own anagram word list, flesh out an anagram-based theme/clue, or just for light reading idk.
 - FAQ
   * Can I make an anagrammy with this?
     - Of course! I'm literally begging for someone else to make one of these puzzles because I want to solve one.
