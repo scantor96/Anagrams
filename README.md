@@ -6,7 +6,7 @@
 - `allwords.txt` is the list of every word in all of my wordlists. You can use this in the search program if you wish, or make your own list! Be sure to remove the semi colon and score if you're making a list from .dict files.
 - I used wordlists from
   * [Peter Broda](https://peterbroda.me/crosswords/wordlist/?fbclid=IwAR04CeR_nhEW5M7CoK6Pyc3lxtzAlD9i9nk6pYadGXWtWN9pTBNWvHCE2hk)
-  * [et tu etui?](https://ettuetui.blogspot.com/2021/07/one-year-of-et-tu-etui.html)
+  * [Et Tu, Etui?](https://ettuetui.blogspot.com/2021/07/one-year-of-et-tu-etui.html)
   * [Brooke Husic and Enrique Henestroza Anguiano](https://www.spreadthewordlist.com/wordlist)
   * [The Juggernaut](https://docs.google.com/spreadsheets/d/185Yf0eUsM0CbARllKty5OKFj1Hng2ZzqaLU2p9TN9Ck/edit)
   * [Ricky Cruz](https://docs.google.com/document/d/1XVjHNL6o7Xm8fyNywrkMkL1tuWH8lEN4qyLHQpxYG5E/edit)
