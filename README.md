@@ -17,7 +17,7 @@
     - Of course! I'm literally begging for other people to make these puzzles because I want to solve them.
   * Why does the text file look like that?
     - Each line is a list of words/phrases that anagram to each other. Not all of it makes good fill, so it's still necessary to manually look through the list for words you might actually want in your puzzle. I'm still adding to mine and updating its scoring based on how I feel like constructing, so it's best for you to make yours to your own purpose.
-  * Did this program take a long time to run? 
+  * Does this program take a long time to run? 
     - Yes! I'm a linguist who knows just enough Python to do a task. I don't know much about algorithms or efficiency, the for loop is my best friend.
   * Why are there naughty words in this list?
     - I included words that I scored 0 when I made my `allwords.txt`. Some are marked to 0 because they have no business in puzzles, and some just because I don't like them. It was too much work to sift through my 0's and check which ones I find icky and which ones we should all find icky, so all are included. Apologies for the inevitable filth. 
