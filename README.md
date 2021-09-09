@@ -7,7 +7,7 @@
 - `AnagramSets.txt` is the final list of valid anagram sets. You can use this to make your own anagram word list, flesh out an anagram-based theme/clue, or just for light reading idk.
 - FAQ
   * Can I make an anagrammy with this?
-    - Of course! I'm literally begging for someone else to make one of these puzzles because I want to solve one.
+    - Of course! I'm literally begging for other people to make these puzzles because I want to solve them.
   * Why does the text file look like that?
     - Each line is a list of words/phrases that anagram to each other. Not all of it makes good fill, so it's still necessary to manually look through the list for words you might actually want in your puzzle. I'm still adding to mine and updating its scoring based on how I feel like constructing, so it's best for you to make yours to your own purpose.
   * Did this program take a long time to run? 
