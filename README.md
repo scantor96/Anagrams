@@ -4,6 +4,13 @@
 - My method has been to only use a wordlist of anagrams to fill a grid. I used to add to the list manually, putting in anagrams I noticed in the wild. But as the puzzles got bigger, those lists became too small for my purposes, so I wrote a little Python code to do that work for me, and now I wish to share it with you.
 - `anagramfind.py` is the program I used to search through my wordlists.
 - `allwords.txt` is the list of every word in all of my wordlists. You can use this in the search program if you wish, or make your own list! Be sure to remove the semi colon and score if you're making a list from .dict files.
+- I used wordlists from
+  * [Peter Broda](https://peterbroda.me/crosswords/wordlist/?fbclid=IwAR04CeR_nhEW5M7CoK6Pyc3lxtzAlD9i9nk6pYadGXWtWN9pTBNWvHCE2hk)
+  * [et tu etui?](https://ettuetui.blogspot.com/2021/07/one-year-of-et-tu-etui.html)
+  * [Brooke Husic and Enrique Henestroza Anguiano](https://www.spreadthewordlist.com/wordlist)
+  * [The Juggernaut](https://docs.google.com/spreadsheets/d/185Yf0eUsM0CbARllKty5OKFj1Hng2ZzqaLU2p9TN9Ck/edit)
+  * [Ricky Cruz](https://docs.google.com/document/d/1XVjHNL6o7Xm8fyNywrkMkL1tuWH8lEN4qyLHQpxYG5E/edit)
+  * And myself! But I don't really have a wordlist as much as I add stuff into Crossfire when I think of it.
 - `AnagramSets.txt` is the final list of valid anagram sets. You can use this to make your own anagram word list, flesh out an anagram-based theme/clue, or just for light reading idk.
 - FAQ
   * Can I make an anagrammy with this?
