@@ -1,6 +1,6 @@
 # Anagrams
 
-- I'm Sara and I make [Anagrammies](https://crosshare.org/crosswords/fuVFczCkWWtVXoJdBpRw), puzzles where the answer to the clue anagrams to the filled-in word. I often get comments wondering how I am able to do that.
+- I'm Sara and I make [Anagrammies](https://crosshare.org/crosswords/fuVFczCkWWtVXoJdBpRw), puzzles where the answer to the clue anagrams to the filled-in word. I often get comments asking how I am able to do that.
 - My method has been to only use a wordlist of anagrams to fill a grid. I used to add to the list manually, putting in anagrams I noticed in the wild. But as the puzzles got bigger, those lists became too small for my purposes, so I wrote a little Python code to do that work for me. 
 - `anagramfind.py` is the program I used to search through my wordlists.
 - `allwords.txt` is the list of every word in all of my wordlists. You can use this in the search program if you wish, or make your own! Be sure to remove the semi colon and score if you're making a list from .dict files.
