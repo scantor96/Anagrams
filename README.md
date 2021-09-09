@@ -7,4 +7,9 @@
 - FAQ
   * Can I also make an anagrammy with this list/code?
     - Of course! I'm literally begging for someone else to make one of these puzzles because I want to solve one.
-  
+  * Why does the text file look like that?
+    - Each line is a list of words that anagram to each other. Not all of it makes good fill, so it's still necessary to look through the list for words you might actually want in your puzzle, and create a .dict file of those good words.
+  * Did this program take a long time to run? 
+    - Yes! I'm a linguist who knows just enough Python to do a task. I don't know much about algorithms or efficiency, the for loop is my best friend.
+  * Why are there naughty words in this list?
+    - I included words that I scored 0 when I made my `allwords.txt`. Some are marked to 0 because they have no business in puzzles, and some just because I don't like them. It was too much work to sift through my 0's and check which ones I find icky and which ones we should all find icky, so all are included. Apologies for the inevitable filth. 
