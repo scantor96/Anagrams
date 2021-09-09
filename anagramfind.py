@@ -1,6 +1,9 @@
 
 import collections
 
+ANAGRAM_SETS = """insert file location"""
+ALL_WORDS = """insert file location"""
+
 def fileToList(file):
     word_list = []
     for line in file.readlines():
@@ -25,7 +28,7 @@ def checkRepeats(sorted_list):
 def findAnagrams(repeated,alist):
     anagrams = {}
     anagram_groups = {}
-    new_file = open("/Users/owner/Desktop/anagramstuff/AnagramSets.txt","a+")
+    new_file = open(ANAGRAM_SETS,"a+")
     for word in alist:
         new_word = "".join(sorted(word))
         anagrams[word] = new_word
@@ -44,7 +47,7 @@ def add_values_in_dict(dictionary,key,list_of_values):
     dictionary[key].extend(list_of_values)
     return dictionary
 
-file = open("/Users/owner/Desktop/anagramstuff/allwords.txt")
+file = open(ALL_WORDS)
 alist = fileToList(file)
 sorted_list = makeSortedList(alist)
 repeated = checkRepeats(sorted_list)
