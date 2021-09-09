@@ -5,7 +5,7 @@
 - I use a lot of different wordlists when I make puzzles, I've linked to some of the larger ones below. I've attached the code I used to find valid pairs. 
 - I've uploaded `allwords.txt`, which is the list of every word in my multiple wordlists. You can use this to search (it will give you the same result as `AnagramSets.txt`), or you can make your own list. If you're pulling from .dict files, be sure to remove the semicolon and number score before running this code.
 - FAQ
-  * Can I also make an anagrammy with this list/code?
+  * Can I make an anagrammy with this?
     - Of course! I'm literally begging for someone else to make one of these puzzles because I want to solve one.
   * Why does the text file look like that?
     - Each line is a list of words that anagram to each other. Not all of it makes good fill, so it's still necessary to look through the list for words you might actually want in your puzzle, and create a .dict file of those good words.
