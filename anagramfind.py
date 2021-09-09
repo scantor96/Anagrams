@@ -1,8 +1,8 @@
 
 import collections
 
-ANAGRAM_SETS = """insert file location"""
-ALL_WORDS = """insert file location"""
+ANAGRAM_SETS = """insert file path"""
+ALL_WORDS = """insert file path"""
 
 def fileToList(file):
     word_list = []
